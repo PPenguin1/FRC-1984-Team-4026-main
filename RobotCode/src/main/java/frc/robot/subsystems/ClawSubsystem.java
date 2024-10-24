@@ -1,6 +1,8 @@
 package frc.robot.subsystems;
 
-public class ClawSubsystem
+import edu.wpi.first.wpilibj2.command.SubsystemBase;
+
+public class ClawSubsystem extends SubsystemBase
 {
 
 }
